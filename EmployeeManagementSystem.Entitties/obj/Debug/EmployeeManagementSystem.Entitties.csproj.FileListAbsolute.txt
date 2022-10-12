@@ -1,0 +1,6 @@
+C:\Users\USER\OneDrive\Desktop\angularprojects\EmployeeManagementSystem.Presentation\EmployeeManagementSystem.Entitties\bin\Debug\EmployeeManagementSystem.Entitties.dll
+C:\Users\USER\OneDrive\Desktop\angularprojects\EmployeeManagementSystem.Presentation\EmployeeManagementSystem.Entitties\bin\Debug\EmployeeManagementSystem.Entitties.pdb
+C:\Users\USER\OneDrive\Desktop\angularprojects\EmployeeManagementSystem.Presentation\EmployeeManagementSystem.Entitties\obj\Debug\EmployeeManagementSystem.Entitties.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\angularprojects\EmployeeManagementSystem.Presentation\EmployeeManagementSystem.Entitties\obj\Debug\EmployeeManagementSystem.Entitties.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\angularprojects\EmployeeManagementSystem.Presentation\EmployeeManagementSystem.Entitties\obj\Debug\EmployeeManagementSystem.Entitties.dll
+C:\Users\USER\OneDrive\Desktop\angularprojects\EmployeeManagementSystem.Presentation\EmployeeManagementSystem.Entitties\obj\Debug\EmployeeManagementSystem.Entitties.pdb
